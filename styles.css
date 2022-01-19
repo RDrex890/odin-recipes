@@ -1,0 +1,14 @@
+/*styles.css*/
+
+* {
+    background-color: antiquewhite;
+}
+
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center; 
+    color: rgb(70, 45, 45);  
+}
+
+ul {
+    font-family:Verdana, Geneva, Tahoma, sans-serif
